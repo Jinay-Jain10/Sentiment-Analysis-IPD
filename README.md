@@ -8,7 +8,7 @@ A research-oriented project exploring multiple methods for **lexicon-based senti
 
 ```
 ├── Sentiment_Analysis_Final.ipynb   # Main notebook: lexicon construction & evaluation methods
-├── IPD_2.ipynb                      # Experimentation notebook: attention & gradient-based scoring
+
 ```
 
 ---
